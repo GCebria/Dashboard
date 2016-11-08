@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:04:05
+    Author     : alumno
+*/
+
+$num-columns:12;
+
+@for $i from 1 through $num-columns {
+    
+    .col-#{$i}{
+        width: ((100/$num-columns)*$i)*1%;
+        float:left;
+        border: 1px solid red;
+    }
+    .offset-#{$i}{
+        margin-left: ((100/$num-columns)*$i)*1%;
+    }
+}
+.row:after {
+    content: "";
+    clear: both;
+    display: block; 
+}

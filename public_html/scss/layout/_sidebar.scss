@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:04:30
+    Author     : alumno
+*/
+
+.lateralMenu{
+    background-color: #323443;
+    color:white;
+
+}
+.lateralMenu__menu{
+    list-style-type: none;
+    padding-left: 0;
+    height: 100vh;
+
+}
+.lateralMenu__item{
+    padding: 20px;
+}
+
+.lateralMenu__item:hover{
+    background-color: #1E202C;
+}

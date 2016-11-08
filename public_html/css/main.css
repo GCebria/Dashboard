@@ -1,0 +1,370 @@
+@charset "UTF-8";
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:02:47
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:06:54
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:07:00
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:07:10
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:07:18
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:07:34
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:07:46
+    Author     : Gerard
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:03:15
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:03:23
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:03:57
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-oct-2016, 9:19:36
+    Author     : alumno
+*/
+.image {
+  background-image: url("https://www.fix.com/assets/content/15306/recycle-me-this-header.jpg");
+  width: 100%;
+  height: 319px; }
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:04:05
+    Author     : alumno
+*/
+.col-1 {
+  width: 8.33333%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-1 {
+  margin-left: 8.33333%; }
+
+.col-2 {
+  width: 16.66667%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-2 {
+  margin-left: 16.66667%; }
+
+.col-3 {
+  width: 25%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-3 {
+  margin-left: 25%; }
+
+.col-4 {
+  width: 33.33333%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-4 {
+  margin-left: 33.33333%; }
+
+.col-5 {
+  width: 41.66667%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-5 {
+  margin-left: 41.66667%; }
+
+.col-6 {
+  width: 50%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-6 {
+  margin-left: 50%; }
+
+.col-7 {
+  width: 58.33333%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-7 {
+  margin-left: 58.33333%; }
+
+.col-8 {
+  width: 66.66667%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-8 {
+  margin-left: 66.66667%; }
+
+.col-9 {
+  width: 75%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-9 {
+  margin-left: 75%; }
+
+.col-10 {
+  width: 83.33333%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-10 {
+  margin-left: 83.33333%; }
+
+.col-11 {
+  width: 91.66667%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-11 {
+  margin-left: 91.66667%; }
+
+.col-12 {
+  width: 100%;
+  float: left;
+  border: 1px solid red; }
+
+.offset-12 {
+  margin-left: 100%; }
+
+.row:after {
+  content: "";
+  clear: both;
+  display: block; }
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:04:15
+    Author     : alumno
+*/
+.header {
+  background: #337AB7;
+  text-align: center;
+  padding: 15px; }
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:04:21
+    Author     : alumno
+*/
+.footer {
+  background: #337AB7;
+  text-align: center;
+  padding: 15px;
+  color: white;
+  font-size: 20px; }
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:04:30
+    Author     : alumno
+*/
+.lateralMenu {
+  background-color: #323443;
+  color: white; }
+
+.lateralMenu__menu {
+  list-style-type: none;
+  padding-left: 0;
+  height: 100vh; }
+
+.lateralMenu__item {
+  padding: 20px; }
+
+.lateralMenu__item:hover {
+  background-color: #1E202C; }
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:04:35
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:03:33
+    Author     : alumno
+*/
+.button {
+  display: inline-block;
+  padding: 10px 5px;
+  border: 1px;
+  border-radius: 4px; }
+
+.button--main {
+  margin: -20px -50px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  background-color: #F0AD4E; }
+
+.button--reciclar {
+  background-color: #5CB85C; }
+
+.button--reciclar:after {
+  font-family: FontAwesome;
+  content: ""; }
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:03:39
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:03:45
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:03:50
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:04:46
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:04:55
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:05:05
+    Author     : alumno
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 10:06:40
+    Author     : alumno
+*/
